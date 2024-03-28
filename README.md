@@ -24,8 +24,6 @@ The following images show the error rates for different k values in the KNN algo
 
 As observed, the error rate decreases as k increases, reaching a more stable range between 11 and 21.
 
-![Zoomed-in Error Rate for K=11 to K=21](image2.png)
-
 This zoomed-in view highlights the optimal range for k, where the error rate is minimized.
 
 ## Conclusion
